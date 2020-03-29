@@ -1,1 +1,1 @@
-# Assorted notebooks
+Assorted notebooks
